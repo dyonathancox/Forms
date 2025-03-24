@@ -20,7 +20,6 @@
     /*Colors Surface*/
     --surface-primary: #FFFFFF;
     --surface-secondary: #FEE7D6;
-    --surface-disabled: #E7E5E4;
 
     /*Colors Stroke*/
     --stroke-default: #D6D3D1; 
@@ -39,8 +38,6 @@
 
     /*Font*/
     font-family: "Roboto Condensed", sans-serif;
-    --h1: 800 3.2rem/120% var(--font-family);
-    --h2: 800 2.4rem/120% var(--font-family);
-    --h3: 800 2rem/120% var(--font-family);
-    --text: 800 1.6rem/120% var(--font-family);
+    --text: 400 1rem/1.5 var(--font-family);
+    --text: 400 .875rem/1.4 var(--font-family);
 }
