@@ -20,6 +20,7 @@
     /*Colors Surface*/
     --surface-primary: #FFFFFF;
     --surface-secondary: #FEE7D6;
+    --surface-disabled: #E7E5E4;
 
     /*Colors Stroke*/
     --stroke-default: #D6D3D1;
@@ -56,4 +57,14 @@ h2 {
 img {
     max-width: 100%;
     height: auto;
+}
+.flex{
+    display: flex;
+}
+
+.flex-1{
+    flex: 1;
+}
+.flex-2{
+    flex: 2;
 }
